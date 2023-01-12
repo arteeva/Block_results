@@ -1,0 +1,15 @@
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\bin\Debug\net6.0\Blocks_result.exe
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\bin\Debug\net6.0\Blocks_result.deps.json
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\bin\Debug\net6.0\Blocks_result.runtimeconfig.json
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\bin\Debug\net6.0\Blocks_result.dll
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\bin\Debug\net6.0\Blocks_result.pdb
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.csproj.AssemblyReference.cache
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.AssemblyInfoInputs.cache
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.AssemblyInfo.cs
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.csproj.CoreCompileInputs.cache
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.dll
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\refint\Blocks_result.dll
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.pdb
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\Blocks_result.genruntimeconfig.cache
+C:\GB\Знакомство_с_языками_программирования\Blocks_result\obj\Debug\net6.0\ref\Blocks_result.dll
