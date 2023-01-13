@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GB\\Знакомство_с_языками_программирования\\Blocks_result\\Blocks_result.csproj": {}
+    "C:\\GB\\Знакомство_с_языками_программирования\\ПРОБА\\Blocks_result.csproj": {}
   },
   "projects": {
-    "C:\\GB\\Знакомство_с_языками_программирования\\Blocks_result\\Blocks_result.csproj": {
+    "C:\\GB\\Знакомство_с_языками_программирования\\ПРОБА\\Blocks_result.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GB\\Знакомство_с_языками_программирования\\Blocks_result\\Blocks_result.csproj",
+        "projectUniqueName": "C:\\GB\\Знакомство_с_языками_программирования\\ПРОБА\\Blocks_result.csproj",
         "projectName": "Blocks_result",
-        "projectPath": "C:\\GB\\Знакомство_с_языками_программирования\\Blocks_result\\Blocks_result.csproj",
+        "projectPath": "C:\\GB\\Знакомство_с_языками_программирования\\ПРОБА\\Blocks_result.csproj",
         "packagesPath": "C:\\Users\\John Connor\\.nuget\\packages\\",
-        "outputPath": "C:\\GB\\Знакомство_с_языками_программирования\\Blocks_result\\obj\\",
+        "outputPath": "C:\\GB\\Знакомство_с_языками_программирования\\ПРОБА\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John Connor\\AppData\\Roaming\\NuGet\\NuGet.Config"
